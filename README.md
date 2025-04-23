@@ -1,2 +1,2 @@
 # python_prueba
-Python pruebas
+Repositorio creado para pruebas basicas con Python
